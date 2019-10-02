@@ -1,2 +1,2 @@
-# DetailedPortfolio
+# DetailedCreativePortfolio
 Multiple Page Portfolio
